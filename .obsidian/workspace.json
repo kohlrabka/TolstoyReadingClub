@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "44df3a0959ea0ba4",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b93cec63e1ddd84",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9249c3f580e21158",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Высоконагруженные приложения. Программирование, масштабирование, поддержка/Test note.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "f05a1777ac2d03c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c8295992291df70d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5ac5f38f5b7b7f72",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d36474d211406fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1583ffc278a34b4c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "293ceae7bc4979c5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3139741aef7e3467",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5542acf2ba2a94bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6a60d4090b4fbd9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b40f25c5ca6bfff5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Высоконагруженные приложения. Программирование, масштабирование, поддержка/Test note.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f6a4378e0a271510",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Высоконагруженные приложения. Программирование, масштабирование, поддержка/Test note.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a436a5a3132e7672",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "eed734e556a4f8ae",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Высоконагруженные приложения. Программирование, масштабирование, поддержка/Test note.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9249c3f580e21158",
+  "lastOpenFiles": [
+    "Welcome.md",
+    "Высоконагруженные приложения. Программирование, масштабирование, поддержка/Test note.md",
+    "Высоконагруженные приложения. Программирование, масштабирование, поддержка"
+  ]
+}
