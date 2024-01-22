@@ -20,24 +20,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "b243069fc083240d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b6f45dcf0e4de44b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Designing Data-Intensive Applications/Chapter 7 - Transactions.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -166,8 +148,8 @@
   },
   "active": "9249c3f580e21158",
   "lastOpenFiles": [
-    "Designing Data-Intensive Applications/Designing Data-Intensive Applications.md",
     "Designing Data-Intensive Applications/Chapter 7 - Transactions.md",
+    "Designing Data-Intensive Applications/Designing Data-Intensive Applications.md",
     "Welcome.md",
     "ddia.jpeg",
     "Designing Data-Intensive Applications"
