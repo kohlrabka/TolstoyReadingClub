@@ -22,15 +22,19 @@
         ]
       },
       {
-        "id": "f05a1777ac2d03c1",
+        "id": "b243069fc083240d",
         "type": "tabs",
         "children": [
           {
-            "id": "c8295992291df70d",
+            "id": "b6f45dcf0e4de44b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Designing Data-Intensive Applications/Chapter 7 - Transactions.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
