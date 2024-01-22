@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Высоконагруженные приложения. Программирование, масштабирование, поддержка/Test note.md",
+                "file": "Designing Data-Intensive Applications/Chapter 7 - Transactions.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Высоконагруженные приложения. Программирование, масштабирование, поддержка/Test note.md",
+                "file": "Designing Data-Intensive Applications/Chapter 7 - Transactions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Высоконагруженные приложения. Программирование, масштабирование, поддержка/Test note.md",
+                "file": "Designing Data-Intensive Applications/Chapter 7 - Transactions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Высоконагруженные приложения. Программирование, масштабирование, поддержка/Test note.md"
+                "file": "Designing Data-Intensive Applications/Chapter 7 - Transactions.md"
               }
             }
           }
@@ -162,8 +162,10 @@
   },
   "active": "9249c3f580e21158",
   "lastOpenFiles": [
+    "Designing Data-Intensive Applications/Designing Data-Intensive Applications.md",
+    "Designing Data-Intensive Applications/Chapter 7 - Transactions.md",
     "Welcome.md",
-    "Высоконагруженные приложения. Программирование, масштабирование, поддержка/Test note.md",
-    "Высоконагруженные приложения. Программирование, масштабирование, поддержка"
+    "ddia.jpeg",
+    "Designing Data-Intensive Applications"
   ]
 }
