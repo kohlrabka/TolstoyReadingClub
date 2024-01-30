@@ -11,8 +11,30 @@
             "id": "9249c3f580e21158",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Strategic Monoliths and Microservices/Part 3 - Event-First Architecture.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "f282111a85844a2b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a56ec02e0d19973f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Strategic Monoliths and Microservices/Part 3 - Event-First Architecture.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Strategic Monoliths and Microservices/Part 3 - Event-First Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Strategic Monoliths and Microservices/Part 3 - Event-First Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Strategic Monoliths and Microservices/Part 3 - Event-First Architecture.md"
+              }
             }
           }
         ]
@@ -140,11 +166,22 @@
   },
   "active": "9249c3f580e21158",
   "lastOpenFiles": [
-    "Designing Data-Intensive Applications/Chapter 5 - Replication.md",
+    "table_comp.jpg",
+    "ports_and_adapters_core.jpg",
+    "ports_and_adapters.jpg",
+    "Strategic Monoliths and Microservices/Strategic Monoliths and Microservices.md",
+    "Strategic Monoliths and Microservices/Part 3 - Event-First Architecture.md",
+    "Strategic Monoliths and Microservices/Untitled",
+    "strat_mon_mic.jpg",
+    "Untitled",
+    "Untitled.md",
+    "Designing Data-Intensive Applications/Chapter 8 - Troubles with distributed systems.md",
+    "Strategic Monoliths and Microservices",
     "Designing Data-Intensive Applications/Chapter 7 - Transactions.md",
     "Designing Data-Intensive Applications/Designing Data-Intensive Applications.md",
-    "Welcome.md",
     "ddia.jpeg",
+    "Designing Data-Intensive Applications/Chapter 5 - Replication.md",
+    "Welcome.md",
     "Designing Data-Intensive Applications"
   ]
 }
